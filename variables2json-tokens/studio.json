@@ -1,0 +1,1262 @@
+{
+  "version": "1.0.4",
+  "metadata": {},
+  "collections": [
+    {
+      "name": "Palette",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "variables": [
+            {
+              "name": "Color/Blue/20",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F5FBFF"
+            },
+            {
+              "name": "Color/Blue/50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E5F4FF"
+            },
+            {
+              "name": "Color/Blue/100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#CCE9FF"
+            },
+            {
+              "name": "Color/Blue/200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#99D2FF"
+            },
+            {
+              "name": "Color/Blue/300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#66BCFF"
+            },
+            {
+              "name": "Color/Blue/400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#33A5FF"
+            },
+            {
+              "name": "Color/Blue/500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#008FFF"
+            },
+            {
+              "name": "Color/Blue/600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#0072CC"
+            },
+            {
+              "name": "Color/Blue/700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#005699"
+            },
+            {
+              "name": "Color/Blue/800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#003966"
+            },
+            {
+              "name": "Color/Blue/900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#001D33"
+            },
+            {
+              "name": "Color/Green/20",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F7FDF7"
+            },
+            {
+              "name": "Color/Green/50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#EBF9EB"
+            },
+            {
+              "name": "Color/Green/100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#D8F3D9"
+            },
+            {
+              "name": "Color/Green/200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B0E7B2"
+            },
+            {
+              "name": "Color/Green/300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#89DC8C"
+            },
+            {
+              "name": "Color/Green/400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#62D066"
+            },
+            {
+              "name": "Color/Green/500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#3BC440"
+            },
+            {
+              "name": "Color/Green/600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#2F9D33"
+            },
+            {
+              "name": "Color/Green/700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#237626"
+            },
+            {
+              "name": "Color/Green/800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#174F1A"
+            },
+            {
+              "name": "Color/Green/900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#0C270D"
+            },
+            {
+              "name": "Color/Green/A550",
+              "type": "color",
+              "isAlias": false,
+              "value": "#35B139"
+            },
+            {
+              "name": "Color/Red/20",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFF5F5"
+            },
+            {
+              "name": "Color/Red/50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFE7E5"
+            },
+            {
+              "name": "Color/Red/100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFCFCC"
+            },
+            {
+              "name": "Color/Red/200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFA099"
+            },
+            {
+              "name": "Color/Red/300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FF7066"
+            },
+            {
+              "name": "Color/Red/400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FF4133"
+            },
+            {
+              "name": "Color/Red/500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FF1100"
+            },
+            {
+              "name": "Color/Red/600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#CC0E00"
+            },
+            {
+              "name": "Color/Red/700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#990A00"
+            },
+            {
+              "name": "Color/Red/800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#660700"
+            },
+            {
+              "name": "Color/Red/900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#330300"
+            },
+            {
+              "name": "Color/Red/550",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E50F00"
+            },
+            {
+              "name": "Color/Orange/20",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFBF5"
+            },
+            {
+              "name": "Color/Orange/50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFF5E5"
+            },
+            {
+              "name": "Color/Orange/100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFEBCC"
+            },
+            {
+              "name": "Color/Orange/200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFD699"
+            },
+            {
+              "name": "Color/Orange/300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFC166"
+            },
+            {
+              "name": "Color/Orange/400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFAD33"
+            },
+            {
+              "name": "Color/Orange/500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FF9800"
+            },
+            {
+              "name": "Color/Orange/600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#CC7A00"
+            },
+            {
+              "name": "Color/Orange/700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#995B00"
+            },
+            {
+              "name": "Color/Orange/800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#663D00"
+            },
+            {
+              "name": "Color/Orange/900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#331F00"
+            },
+            {
+              "name": "Color/Grey/White",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF"
+            },
+            {
+              "name": "Color/Grey/White Alfa, 64",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFFA3"
+            },
+            {
+              "name": "Color/Grey/20",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F5F5F5"
+            },
+            {
+              "name": "Color/Grey/50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#EFF0F0"
+            },
+            {
+              "name": "Color/Grey/100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E6E6E6"
+            },
+            {
+              "name": "Color/Grey/200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#CBCCCD"
+            },
+            {
+              "name": "Color/Grey/300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B1B2B5"
+            },
+            {
+              "name": "Color/Grey/400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#97989B"
+            },
+            {
+              "name": "Color/Grey/500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#7D7F82"
+            },
+            {
+              "name": "Color/Grey/600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#646568"
+            },
+            {
+              "name": "Color/Grey/700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#4B4C4E"
+            },
+            {
+              "name": "Color/Grey/800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#323334"
+            },
+            {
+              "name": "Color/Grey/900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#19191A"
+            },
+            {
+              "name": "Color/Grey/Black",
+              "type": "color",
+              "isAlias": false,
+              "value": "#000000"
+            },
+            {
+              "name": "Color/Grey/A150",
+              "type": "color",
+              "isAlias": false,
+              "value": "#D7D8D9"
+            },
+            {
+              "name": "Color/Grey/A250",
+              "type": "color",
+              "isAlias": false,
+              "value": "#BEBFC1"
+            },
+            {
+              "name": "Color/Grey/A75",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E6E6E6"
+            },
+            {
+              "name": "Color/Grey/Alpha 800,64",
+              "type": "color",
+              "isAlias": false,
+              "value": "#323334A3"
+            },
+            {
+              "name": "Color/Grey/Alpha 800,32",
+              "type": "color",
+              "isAlias": false,
+              "value": "#32333452"
+            },
+            {
+              "name": "Color/Grey blue/Grey blue",
+              "type": "color",
+              "isAlias": false,
+              "value": "#34444B"
+            },
+            {
+              "name": "Color/Grey blue/Grey blue dark",
+              "type": "color",
+              "isAlias": false,
+              "value": "#263136"
+            },
+            {
+              "name": "Color/Purple/20",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F9F5FF"
+            },
+            {
+              "name": "Color/Purple/50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F0E6FF"
+            },
+            {
+              "name": "Color/Purple/100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E0CDFE"
+            },
+            {
+              "name": "Color/Purple/200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#C29BFD"
+            },
+            {
+              "name": "Color/Purple/300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#A468FD"
+            },
+            {
+              "name": "Color/Purple/400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#8536FC"
+            },
+            {
+              "name": "Color/Purple/500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#6704FB"
+            },
+            {
+              "name": "Color/Purple/600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#5203C9"
+            },
+            {
+              "name": "Color/Purple/700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#3E0297"
+            },
+            {
+              "name": "Color/Purple/800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#290264"
+            },
+            {
+              "name": "Color/Purple/900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#140132"
+            },
+            {
+              "name": "Color/Оther colors/Yellow-1",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFCC00"
+            },
+            {
+              "name": "Color/Оther colors/Yellow-2",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFB901"
+            },
+            {
+              "name": "Color/Оther colors/Yellow-3",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F4A900"
+            },
+            {
+              "name": "Color/Оther colors/Brown-1",
+              "type": "color",
+              "isAlias": false,
+              "value": "#995B00"
+            },
+            {
+              "name": "Color/Оther colors/Brown-2",
+              "type": "color",
+              "isAlias": false,
+              "value": "#663D00"
+            },
+            {
+              "name": "Color/Оther colors/Brown-3",
+              "type": "color",
+              "isAlias": false,
+              "value": "#331F00"
+            },
+            {
+              "name": "Color/Оther colors/Turquoise-1",
+              "type": "color",
+              "isAlias": false,
+              "value": "#067A91"
+            },
+            {
+              "name": "Color/Оther colors/Turquoise-2",
+              "type": "color",
+              "isAlias": false,
+              "value": "#045262"
+            },
+            {
+              "name": "Color/Оther colors/Turquoise-3",
+              "type": "color",
+              "isAlias": false,
+              "value": "#022931"
+            },
+            {
+              "name": "Color/Оther colors/Pink-1",
+              "type": "color",
+              "isAlias": false,
+              "value": "#DF209F"
+            },
+            {
+              "name": "Color/Оther colors/Pink-2",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B3197F"
+            },
+            {
+              "name": "Color/Оther colors/Pink-3",
+              "type": "color",
+              "isAlias": false,
+              "value": "#86135F"
+            },
+            {
+              "name": "Color",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spacing",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "variables": [
+            {
+              "name": "Spacing Factors/spacing-4",
+              "type": "number",
+              "isAlias": false,
+              "value": 4
+            },
+            {
+              "name": "Spacing Factors/spacing-6",
+              "type": "number",
+              "isAlias": false,
+              "value": 6
+            },
+            {
+              "name": "Spacing Factors/spacing-8",
+              "type": "number",
+              "isAlias": false,
+              "value": 8
+            },
+            {
+              "name": "Spacing Factors/spacing-12",
+              "type": "number",
+              "isAlias": false,
+              "value": 12
+            },
+            {
+              "name": "Spacing Factors/spacing-16",
+              "type": "number",
+              "isAlias": false,
+              "value": 16
+            },
+            {
+              "name": "Spacing Factors/spacing-18",
+              "type": "number",
+              "isAlias": false,
+              "value": 18
+            },
+            {
+              "name": "Spacing Factors/spacing-24",
+              "type": "number",
+              "isAlias": false,
+              "value": 24
+            },
+            {
+              "name": "Spacing Factors/spacing-32",
+              "type": "number",
+              "isAlias": false,
+              "value": 32
+            },
+            {
+              "name": "Spacing Factors/spacing-40",
+              "type": "number",
+              "isAlias": false,
+              "value": 40
+            },
+            {
+              "name": "Spacing Factors/spacing-48",
+              "type": "number",
+              "isAlias": false,
+              "value": 48
+            },
+            {
+              "name": "Spacing Factors/spacing-56",
+              "type": "number",
+              "isAlias": false,
+              "value": 56
+            },
+            {
+              "name": "Spacing Factors/spacing-64",
+              "type": "number",
+              "isAlias": false,
+              "value": 64
+            },
+            {
+              "name": "top → content -Padding-v",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Spacing",
+                "name": "Spacing Factors/spacing-32"
+              }
+            },
+            {
+              "name": "content -Padding-v",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Spacing",
+                "name": "Spacing Factors/spacing-24"
+              }
+            },
+            {
+              "name": "title-content -Gap-h",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Spacing",
+                "name": "Spacing Factors/spacing-12"
+              }
+            },
+            {
+              "name": "title → content -Gap-v",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Spacing",
+                "name": "Spacing Factors/spacing-18"
+              }
+            },
+            {
+              "name": "tab → content -Gap-v",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Spacing",
+                "name": "Spacing Factors/spacing-16"
+              }
+            },
+            {
+              "name": "active-butons -Gap-h",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Spacing",
+                "name": "Spacing Factors/spacing-24"
+              }
+            },
+            {
+              "name": "filter-butons -Gap-h",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Spacing",
+                "name": "Spacing Factors/spacing-8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Typography",
+      "modes": [
+        {
+          "name": "Style",
+          "variables": [
+            {
+              "name": "Display/900-medium-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 54,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 63,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Display/800-medium-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 36,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 42,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Display/700-medium-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 24,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 28,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Heading/800-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 20,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 32,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Heading/800-medium-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 20,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 32,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Heading/700-medium-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 18,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 32,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Heading/600-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 16,
+                "fontFamily": "Inter",
+                "fontWeight": "Regular",
+                "lineHeight": 24,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Heading/600-medium-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 16,
+                "fontFamily": "Inter",
+                "fontWeight": "Medium",
+                "lineHeight": 24,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Heading/500-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 14,
+                "fontFamily": "Inter",
+                "fontWeight": "Regular",
+                "lineHeight": 22,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Heading/500-medium-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 14,
+                "fontFamily": "Inter",
+                "fontWeight": "Medium",
+                "lineHeight": 22,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/700",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 18,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 24,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/700-medium",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 18,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 24,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/600",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 16,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 24,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/600-medium",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 16,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 24,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/500",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 14,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 20,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/500-medium",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 14,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 20,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/400",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 12,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 16,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/400-medium",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 12,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 16,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/400-medium-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 12,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 16,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/300",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 10,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 20,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Body/300-medium",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 10,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 20,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.15000000596046448,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Label/500",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 14,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 16,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Label/500-medium",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 14,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 16,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Label/400",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 12,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 14,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Label/400-medium",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 12,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 14,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Label/300",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 10,
+                "fontFamily": "Roboto",
+                "fontWeight": "Regular",
+                "lineHeight": 12,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Label/300-medium",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 10,
+                "fontFamily": "Roboto",
+                "fontWeight": "Medium",
+                "lineHeight": 12,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.4000000059604645,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Table header/600-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 16,
+                "fontFamily": "Ubuntu Mono",
+                "fontWeight": "Regular",
+                "lineHeight": 20,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.10000000149011612,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Table header/600-bold-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 16,
+                "fontFamily": "Ubuntu Mono",
+                "fontWeight": "Bold",
+                "lineHeight": 20,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.10000000149011612,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Table header/500-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 14,
+                "fontFamily": "Ubuntu Mono",
+                "fontWeight": "Regular",
+                "lineHeight": 20,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.10000000149011612,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "Table header/500-bold-TC",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 14,
+                "fontFamily": "Ubuntu Mono",
+                "fontWeight": "Bold",
+                "lineHeight": 20,
+                "lineHeightUnit": "PIXELS",
+                "letterSpacing": 0.10000000149011612,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Effects",
+      "modes": [
+        {
+          "name": "Style",
+          "variables": [
+            {
+              "name": "Shadows/1",
+              "type": "effect",
+              "isAlias": false,
+              "value": {
+                "effects": [
+                  {
+                    "type": "DROP_SHADOW",
+                    "color": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 0.12
+                    },
+                    "offset": {
+                      "x": 0,
+                      "y": 3
+                    },
+                    "radius": 6,
+                    "spread": -4
+                  },
+                  {
+                    "type": "DROP_SHADOW",
+                    "color": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 0.08
+                    },
+                    "offset": {
+                      "x": 0,
+                      "y": 6
+                    },
+                    "radius": 16,
+                    "spread": 0
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

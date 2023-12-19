@@ -1,72 +1,111 @@
 const theme = {
   "palette": {
-    "blue": {
-      "20": "#F5FBFF",
-      "50": "#E5F4FF",
-      "100": "#CCE9FF",
-      "200": "#99D2FF",
-      "300": "#66BCFF",
-      "400": "#33A5FF",
-      "500": "#008FFF",
-      "600": "#0072CC",
-      "700": "#005699",
-      "800": "#003966",
-      "900": "#001D33"
-    },
-    "grey": {
-      "20": "#F5F5F5",
-      "50": "#EFF0F0",
-      "100": "#E6E6E6",
-      "200": "#CBCCCD",
-      "300": "#B1B2B5",
-      "400": "#97989B",
-      "500": "#7D7F82",
-      "600": "#646568",
-      "700": "#4B4C4E",
-      "800": "#323334",
-      "900": "#19191A"
-    },
-    "common": { "white": "#FFFFFF", "black": "#000000", "red": "#FFFFFF", "orange": "#000000" }
-  },
-  "tokens": {
-    "global": {
-      "background": {
-        "primary": {
-          "default": "#008FFF",
-          "hover": "#0072CC",
-          "active": "#005699",
-          "focus": "#008FFF",
-          "disabled": "#E6E6E6"
-        },
-        "outlined": {
-          "default": "#FFFFFF",
-          "hover": "#E5F4FF",
-          "active": "#CCE9FF",
-          "focus": "#FFFFFF",
-          "disabled": "#FFFFFF"
-        }
+    "color": {
+      "blue": {
+        "20": "#F5FBFF",
+        "50": "#E5F4FF",
+        "100": "#CCE9FF",
+        "200": "#99D2FF",
+        "300": "#66BCFF",
+        "400": "#33A5FF",
+        "500": "#008FFF",
+        "600": "#0072CC",
+        "700": "#005699",
+        "800": "#003966",
+        "900": "#001D33"
       },
-      "text": {
-        "primary": "#323334",
-        "secondary": "#7D7F82",
-        "disabled": "#97989B",
-        "contrast": "#FFFFFF",
-        "action": "#008FFF",
-        "darkAction": "#0072CC"
+      "green": {
+        "20": "#F7FDF7",
+        "50": "#EBF9EB",
+        "100": "#D8F3D9",
+        "200": "#B0E7B2",
+        "300": "#89DC8C",
+        "400": "#62D066",
+        "500": "#3BC440",
+        "600": "#2F9D33",
+        "700": "#237626",
+        "800": "#174F1A",
+        "900": "#0C270D",
+        "a550": "#35B139"
+      },
+      "red": {
+        "20": "#FFF5F5",
+        "50": "#FFE7E5",
+        "100": "#FFCFCC",
+        "200": "#FFA099",
+        "300": "#FF7066",
+        "400": "#FF4133",
+        "500": "#FF1100",
+        "550": "#E50F00",
+        "600": "#CC0E00",
+        "700": "#990A00",
+        "800": "#660700",
+        "900": "#330300"
+      },
+      "orange": {
+        "20": "#FFFBF5",
+        "50": "#FFF5E5",
+        "100": "#FFEBCC",
+        "200": "#FFD699",
+        "300": "#FFC166",
+        "400": "#FFAD33",
+        "500": "#FF9800",
+        "600": "#CC7A00",
+        "700": "#995B00",
+        "800": "#663D00",
+        "900": "#331F00"
+      },
+      "grey": {
+        "20": "#F5F5F5",
+        "50": "#EFF0F0",
+        "100": "#E6E6E6",
+        "200": "#CBCCCD",
+        "300": "#B1B2B5",
+        "400": "#97989B",
+        "500": "#7D7F82",
+        "600": "#646568",
+        "700": "#4B4C4E",
+        "800": "#323334",
+        "900": "#19191A",
+        "white": "#FFFFFF",
+        "whiteAlfa64": "#FFFFFFA3",
+        "black": "#000000",
+        "a150": "#D7D8D9",
+        "a250": "#BEBFC1",
+        "a75": "#E6E6E6",
+        "alpha80064": "#323334A3",
+        "alpha80032": "#32333452"
+      },
+      "greyBlue": { "greyBlue": "#34444B", "greyBlueDark": "#263136" },
+      "purple": {
+        "20": "#F9F5FF",
+        "50": "#F0E6FF",
+        "100": "#E0CDFE",
+        "200": "#C29BFD",
+        "300": "#A468FD",
+        "400": "#8536FC",
+        "500": "#6704FB",
+        "600": "#5203C9",
+        "700": "#3E0297",
+        "800": "#290264",
+        "900": "#140132"
+      },
+      "оtherColors": {
+        "yellow1": "#FFCC00",
+        "yellow2": "#FFB901",
+        "yellow3": "#F4A900",
+        "brown1": "#995B00",
+        "brown2": "#663D00",
+        "brown3": "#331F00",
+        "turquoise1": "#067A91",
+        "turquoise2": "#045262",
+        "turquoise3": "#022931",
+        "pink1": "#DF209F",
+        "pink2": "#B3197F",
+        "pink3": "#86135F"
       }
-    },
-    "button": {
-      "gap": "8px",
-      "sizes": {
-        "large": { "horizontal": "16px", "vertical": "8px" },
-        "medium": { "horizontal": "12px", "vertical": "6px" },
-        "small": { "horizontal": "8px", "vertical": "3px" },
-        "micro": { "horizontal": "8px", "vertical": "0px" }
-      }
-    },
-    "borderRadius": { "small": "4px", "medium": "8px", "large": "16px" },
-    "border": { "primary": "1px solid #008FFF", "disabled": "1px solid #97989B" }
-  }
+    }
+  }, "spacing": {}, "typography": {}, "effects": {}
 }
 
 export type Theme = typeof theme

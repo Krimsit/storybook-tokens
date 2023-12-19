@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "build-theme": "node build-tokens.js"
+    "build-theme-tokenStuio": "node tokenStudioBuilder.js",
+    "builder-token-variables2json": "node variables2jsonBuilder.js"
   },
   "dependencies": {
     "react": "^18.2.0",

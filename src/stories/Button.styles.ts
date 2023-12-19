@@ -90,8 +90,6 @@ export const ButtonBase = styled.button<StyledButtonBaseProps>`
         const currentSize = buttonSizeStyles[$size]
         const currentDisabledVariant = buttonDisabledStyle[$variant]
 
-        console.log($disabled)
-
         return css`
             display: flex;
             align-items: center;

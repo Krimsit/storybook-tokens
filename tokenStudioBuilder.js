@@ -28,7 +28,6 @@ StyleDictionary.registerFormat({
 
             if (token.type === 'border') {
                 value = `${token.value.width} ${token.value.style} ${token.value.color}`
-                console.log(value)
             }
 
             path2Obj(token.path.join('.'), value, object)
@@ -45,7 +44,7 @@ StyleDictionary.registerFormat({
 });
 
 const sd = StyleDictionary.extend({
-    source: ['tokens-json/*.json'],
+    source: ['tokenStudio-tokens/*.json'],
     platforms: {
         uiKit: {
             buildPath: 'theme/',
@@ -59,5 +58,5 @@ const sd = StyleDictionary.extend({
     },
 });
 
-sd.cleanAllPlatforms(); // optionally, cleanup files first..
+sd.cleanAllPlatforms();
 sd.buildAllPlatforms();
