@@ -1,0 +1,14 @@
+{
+  "palette": {
+    "common": {
+      "red": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "orange": {
+        "value": "#000000",
+        "type": "color"
+      }
+    }
+  }
+}
